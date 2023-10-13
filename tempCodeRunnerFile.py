@@ -1,0 +1,1 @@
+    # bot.change_currency(currency='USD')
